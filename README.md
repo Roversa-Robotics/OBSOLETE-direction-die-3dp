@@ -30,11 +30,11 @@ To give the debossed letters and icons maximum visual contrast, use the **Acryli
 
 | Item | Purpose | Link |
 | :--- | :--- | :--- |
-| **Clear Coat Spray (Matte/Satin)** | Seals layer lines to prevent paint bleeding into micro-gaps. | [Rust-Oleum Painter's Touch 2X Clear Matte](https://www.amazon.com/dp/B002BWOS5I) |
-| **Heavy-Body Acrylic Paint** | Thick acrylic paint that fills grooves without bleeding. | [Liquitex Heavy Body Acrylic Paint](https://www.amazon.com/dp/B000KNPLR8) |
+| **Clear Coat Spray (Matte/Satin)** | Seals layer lines to prevent paint bleeding into micro-gaps. | [Rust-Oleum Painter's Touch 2X Clear Matte](https://www.amazon.com/dp/B002BWORZE) |
+| **Heavy-Body Acrylic Paint** | Thick acrylic paint that fills grooves without bleeding. | [Heavy Body Black Acrylic Paint](https://www.amazon.com/dp/B0G2M4KQP6) |
 | **Detail Paint Brushes** | Fine-tip brushes for pushing paint into small recessed areas. | [Arteza Detail Paint Brushes Set](https://www.amazon.com/dp/B085CD2P7N) |
-| **Blue Shop Towels** | Lint-free paper towels for wiping surface paint flat. | [Scott Shop Towels Original Blue](https://www.amazon.com/dp/B00004Z47L) |
-| **Isopropyl Alcohol (99% IPA)** | Cleans up paint haze or dried residue from top faces. | [Isopropyl Alcohol 99% on Amazon](https://www.amazon.com/s?k=isopropyl+alcohol+99) |
+| **Blue Shop Towels** | Lint-free paper towels for wiping surface paint flat. | [Scott Shop Towels Original Blue](https://www.amazon.com/dp/B01DYV725W) |
+| **Isopropyl Alcohol (99% IPA)** | Cleans up paint haze or dried residue from top faces. | [Isopropyl Alcohol 99%](https://www.amazon.com/dp/B07NFSFBXQ) |
 
 *Estimated total cost for supplies is approximately **$33 – $51** if purchasing all items new online.*
 
