@@ -24,6 +24,8 @@ NOTE: each update that changes the f3d file should also update the step and stl 
 
 ## Finishing Guide: Debossed Text Paint & Wipe Method
 
+(NOTE: I tried this painting approach and couldn't achieve it without the dice looking messy. Instead, I changed the design to have deeper depth on the debossed features and no taper. If you want to try paining them, I'd recommend revisiting the design in Fusion 360 and adjusting the following parameters: set deboss_taper_depth back to 1.2 and set deboss_taper_angle to 6.)
+
 To give the debossed letters and icons maximum visual contrast, use the **Acrylic Paint & Wipe** technique detailed below. This method fills the recessed geometry while keeping the top face clean.
 
 ### Required Supplies & Links
