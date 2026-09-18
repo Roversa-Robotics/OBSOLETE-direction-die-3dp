@@ -1,3 +1,4 @@
-# OBSOLETE - PROJECT MOVED direction-die-3dp - 3D Print & CAD Files
+# OBSOLETE - PROJECT MOVED
 
-This project is obsolete and has been merged into https://github.com/Roversa-Robotics/roversa-quest
+The direction-die-3dp project is obsolete and has been merged into 
+https://github.com/Roversa-Robotics/roversa-quest
